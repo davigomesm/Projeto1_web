@@ -42,6 +42,13 @@ body{
     text-shadow: 3px 3px 3px black;
     text-transform: uppercase;
 }
+.pdiv1{
+    background-color: rgba(0, 0, 0, 0.6);
+    color: rgb(255, 255, 255);
+    display: inline-block;
+    padding: 10px;
+    border-bottom: 1px solid white;
+}    
 main{
     width: 80%;
     margin: auto;
@@ -50,14 +57,27 @@ main{
     background-color: aliceblue;
     padding: 10px;
     margin-top: 10px;
+    overflow: auto;
+}
+.card{
+    background-color: rgb(58, 58, 58);
+    float: left;
+    width: 31%;
+    margin: 10px;
+    margin-left: 20px;
+    box-sizing: border-box;
+    text-align: center;
+    color: aliceblue;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+.card img{
+    width: 100%;
 }
 h2{
     background-color: rgb(199, 198, 198);
     padding-left: 5px;
-    border-style: solid;
-    border-top: 2px;
-    border-right: 2px;
-    border-left: 2px;
+    border-bottom: 2px solid rgb(54, 54, 54);
     border-color: rgb(129, 128, 128);
 }
 footer{
