@@ -1,0 +1,71 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: darkgrey;
+    margin: 0;
+}
+.header1{
+    background-image: url(imagens/bg-3.jpg);
+    height: 590px;
+    background-position: right center;
+    background-size: cover;
+    border-top: 1px solid transparent;
+}
+.header1 nav li{
+    display: inline-block;
+    list-style: none;
+    border: 2px solid rgb(255, 255, 255);
+}
+.header1 nav a{
+    background-color: rgba(94, 93, 93, 0.4);
+    display: block;
+    padding: 10px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 11px;
+    letter-spacing: 1px;
+}
+.header1 nav a:hover{
+    background-color: rgba(94, 93, 93, 0.7);
+}
+.header1 nav ul{
+    text-align: right;
+    margin-right: 20px;
+}
+.div1{
+    text-align: center;
+    margin-top: 150px;
+    color: aliceblue;
+}
+.div1 h1{
+    font-size: 70px;
+    text-shadow: 3px 3px 3px black;
+    text-transform: uppercase;
+}
+main{
+    width: 80%;
+    margin: auto;
+}
+.sessao{
+    background-color: aliceblue;
+    padding: 10px;
+    margin-top: 10px;
+}
+h2{
+    background-color: rgb(199, 198, 198);
+    padding-left: 5px;
+    border-style: solid;
+    border-top: 2px;
+    border-right: 2px;
+    border-left: 2px;
+    border-color: rgb(129, 128, 128);
+}
+footer{
+    text-align: center;
+    text-shadow: 2px 2px 1px black;
+    width: 100%;
+    height: 50px;
+    background-color: rgb(87, 87, 87);
+    color: rgb(255, 255, 255);
+    line-height: 50px;
+}
