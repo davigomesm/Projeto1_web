@@ -1,6 +1,6 @@
 ### 🌎 Projeto Web #1
-📚 Projeto Web de aprendizagem - desenvolvendo tags e estilos
+📚 Learning web project - developing tags and styles
 ##
-<div>👨🏻‍💻 Desenvolvimento de uma pagina simples como exemplo para algumas empresas</div>
-<div>🛠 Ferramentas utilizadas -> HTML5 e CSS3</div>
-<div>🔮 Site 👉 https://davigomesm.github.io/Projeto1_web/</div>
+<div>👨🏻‍💻 Development of a simple page as an example for some companies</div>
+<div>🛠 Languages used -> HTML5 e CSS3</div>
+<div>🔮 Website 👉 https://davigomesm.github.io/Projeto1_web/</div>
